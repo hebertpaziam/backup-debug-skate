@@ -1,0 +1,79 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 08/04/2016 02:11
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-coins:before { content: "\f100"; }
+.flaticon-cross:before { content: "\f101"; }
+.flaticon-delete:before { content: "\f102"; }
+.flaticon-lock:before { content: "\f103"; }
+.flaticon-mark:before { content: "\f104"; }
+.flaticon-money:before { content: "\f105"; }
+.flaticon-money-1:before { content: "\f106"; }
+.flaticon-money-2:before { content: "\f107"; }
+.flaticon-people:before { content: "\f108"; }
+.flaticon-people-1:before { content: "\f109"; }
+.flaticon-people-2:before { content: "\f10a"; }
+.flaticon-people-3:before { content: "\f10b"; }
+.flaticon-shape:before { content: "\f10c"; }
+.flaticon-shop:before { content: "\f10d"; }
+.flaticon-signs:before { content: "\f10e"; }
+.flaticon-tool:before { content: "\f10f"; }
+.flaticon-tool-1:before { content: "\f110"; }
+.flaticon-tools:before { content: "\f111"; }
+.flaticon-transport:before { content: "\f112"; }
+.flaticon-web:before { content: "\f113"; }
+    
+    $font-Flaticon-coins: "\f100";
+    $font-Flaticon-cross: "\f101";
+    $font-Flaticon-delete: "\f102";
+    $font-Flaticon-lock: "\f103";
+    $font-Flaticon-mark: "\f104";
+    $font-Flaticon-money: "\f105";
+    $font-Flaticon-money-1: "\f106";
+    $font-Flaticon-money-2: "\f107";
+    $font-Flaticon-people: "\f108";
+    $font-Flaticon-people-1: "\f109";
+    $font-Flaticon-people-2: "\f10a";
+    $font-Flaticon-people-3: "\f10b";
+    $font-Flaticon-shape: "\f10c";
+    $font-Flaticon-shop: "\f10d";
+    $font-Flaticon-signs: "\f10e";
+    $font-Flaticon-tool: "\f10f";
+    $font-Flaticon-tool-1: "\f110";
+    $font-Flaticon-tools: "\f111";
+    $font-Flaticon-transport: "\f112";
+    $font-Flaticon-web: "\f113";
