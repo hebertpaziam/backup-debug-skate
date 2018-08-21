@@ -96,10 +96,10 @@
                                                 </div>
                                             </div>
 
-                                            <!-- ENDEREï¿½O -->
+                                            <!-- ENDEREÇO -->
                                             <div class="form-group">
                                                 <div class="col-md-12">
-                                                    <input type="text" id="CliEndereco" name="CliEndereco" placeholder="Endereï¿½o" class="form-control"/> 
+                                                    <input type="text" id="CliEndereco" name="CliEndereco" placeholder="Endereço" class="form-control"/> 
                                                 </div>
                                             </div>
 
@@ -128,7 +128,7 @@
                                             </div>
                                             <br/>
 
-                                            <!-- BOTï¿½O ENVIAR -->
+                                            <!-- BOTÃO ENVIAR -->
                                             <div id="btnEnviarCollapse" class="collapse">
                                                 <button class="btn btn-primary btn-block" type="submit" id="btnEnviar" name="btnEnviar">Enviar</button>
                                             </div>
